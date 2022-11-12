@@ -2,7 +2,7 @@
 	"GuideData": {
 		"AdsController": {
 
-			"BannerAd": "max",
+			"BannerAd": "admob",
 			"InterstitialAd": "admob",
 			"NativeAd": "max",
 
@@ -26,7 +26,7 @@
 			"unity_banner": "banner",
 			"unity_interstitial": "video",
 
-			"Cpa": true,
+			"Cpa": false,
 			"ImageUrl": "https://i.postimg.cc/Bbx6m3xC/img.jpg",
 			"LinkCpa": "https://freefire-ffdiamonds.netlify.app/"
 
