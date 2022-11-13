@@ -2,9 +2,9 @@
 	"GuideData": {
 		"AdsController": {
 
-			"BannerAd": "max",
-			"InterstitialAd": "max",
-			"NativeAd": "max",
+			"BannerAd": "admob",
+			"InterstitialAd": "admob",
+			"NativeAd": "admob",
 
 			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -739,7 +739,7 @@
 			},
 			{
 				"title": "Your Lie In April",
-				"image": "https://i.postimg.cc/DwgBSDKh/295504088-617373039821960-3214337364486773674-n.jpg",
+				"image": "https://i.postimg.cc/7ZcY3y4F/1c2cac0d7d7d24e3002a83c45c296876.jpg",
 				"color": "#61481C",
 				"text_size": "25",
 				"isLink": false,
