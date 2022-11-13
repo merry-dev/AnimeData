@@ -2,13 +2,13 @@
 	"GuideData": {
 		"AdsController": {
 
-			"BannerAd": "admob",
-			"InterstitialAd": "admob",
-			"NativeAd": "admob",
+			"BannerAd": "max",
+			"InterstitialAd": "facebook",
+			"NativeAd": "max",
 
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+			"BannerAdmob": "ca-app-pub-3520850150587820/8295466061",
+			"InterAdmob": "ca-app-pub-3520850150587820/4539559043",
+			"NativeAdmob": "ca-app-pub-3520850150587820/4356221058",
 			
 	    "MaxBanner" : "YOUR_AD_UNIT_ID",
 		"MaxInter" :  "6233470cde35dc78",
