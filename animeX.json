@@ -32,7 +32,21 @@
 
 		},
 
-		"items": [{
+		"items": [
+			{
+			        "title": "Bongo stray dogs",
+				"image": "https://i.postimg.cc/DZtFqr9r/1edbdca2c0bf5cbcc5e45ca7f097b34a.jpg",
+				"color": "#3C4048",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": " كلنا نعلم أن شخصية "دازاي أوسامو" هي شخصية حقيقية لأديب ياباني. \n\n  لكن ما لا يعلمه الكثيرون أن هذا الأديب الياباني حاول الانتحار وفشل أربعة مرات ونجح في الخامسةِ غرقاّ في انتحار مزدوج مع حبيبته.",
+				"isNative": false,
+				"background": "#B2B2B2"
+			},
+			{
 				"title": "ردات فعل مختلقة",
 				"image": "https://i.postimg.cc/fRwsJv0T/274554721-516926616533270-8452402029623304369-n.jpg",
 				"color": "#B7C4CF",
